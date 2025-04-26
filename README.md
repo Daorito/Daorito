@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on MineCraft Hispanohablante
-- 🌱 I’m currently learning Python
-- 👯 I'm colaborating in IA Hispano
-- 💬 Ask me about IA
+- 🌱 I’m currently learning discord.js
+- 👯 I'm colaborating in GTA HISPANO
+- 💬 Ask me about AI
 - 😄 Pronouns: he / is
   
