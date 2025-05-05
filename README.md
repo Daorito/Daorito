@@ -12,8 +12,7 @@
 - React (próximamente 👀)
 
 ### 📫 Contacto
-- Discord: *[tu usuario aquí]*
-- Email: *[opcional]*
+- Discord: *Daoritox*
 
 ### 😄 Pronombres
 - He / Him *(aunque pusiste "he / is", que suena raro — mejor así)*
